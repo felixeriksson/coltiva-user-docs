@@ -8,14 +8,14 @@ custom_edit_url: null
 
 ## Sensors
 
-| Sensor                | Measurement range | Accuracy     |
-| --------------------- | ----------------- | ------------ |
-| **pH**                | pH 2.5 - 11       | +-0.15 pH    |
-| **EC**                | 0.0 - 4.0 mS/cm   | +-0.15 mS/cm |
-| **Water level**       | 30 - 1800 mm      | +-1.5 mm     |
-| **Water temperature** | 0 - 65 °C         | +-0.75 °C    |
-| **Air temperature**   | 0 - 65 °C         | +-0.75 °C    |
-| **Humidity**          | 0 - 100 %RH       | +-3 %RH      |
+| Sensor                | Measurement range | Accuracy                                                  |
+| --------------------- | ----------------- | --------------------------------------------------------- |
+| **pH**                | pH 2.5 - 11       | +-0.15 pH                                                 |
+| **EC**                | 0.0 - 4.0 mS/cm   | +-0.15 mS/cm up to 2.0 mS/cm, +-0.3 mS/cm above 2.0 mS/cm |
+| **Water level**       | 30 - 1800 mm      | +-1.5 mm                                                  |
+| **Water temperature** | 0 - 65 °C         | +-0.75 °C                                                 |
+| **Air temperature**   | 0 - 65 °C         | +-0.75 °C                                                 |
+| **Humidity**          | 0 - 100 %RH       | +-3 %RH                                                   |
 
 ## Pumps
 
